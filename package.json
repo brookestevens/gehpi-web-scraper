@@ -1,0 +1,15 @@
+{
+  "name": "gephi-web-scraper",
+  "version": "1.0.0",
+  "description": "A simple scraper that builds Gephi XML docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brooke",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "xmlbuilder": "^15.1.1"
+  }
+}
